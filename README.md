@@ -17,7 +17,7 @@ I am a Third-Year Computer Engineering Student at Selçuk University Technology 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,html,css,git,vscode,apple,flutter,androidstudio,python,react,cs,js,ts,php,docker,oracle,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,html,css,git,vscode,apple,flutter,androidstudio,python,react,cs,js,ts,php,docker,postman&perline=10" />
   </a>
 </p>
 

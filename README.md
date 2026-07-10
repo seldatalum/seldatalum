@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Selda!
 
-I am a Third-Year Computer Engineering Student at Selçuk University Technology Faculty. I have a strong passion for mobile application development, web programming, and user interface design. 
+I am a fourth-year Computer Engineering student at Selçuk University Technology Faculty, passionate about building modern software solutions across mobile, web, and backend development. I enjoy developing scalable and user-centric applications using Flutter, React, and ASP.NET Core while continuously expanding my knowledge of software architecture, RESTful APIs, databases, cloud technologies, and DevOps. My goal is to become a versatile Full Stack Software Developer who creates high-quality, impactful digital products.
+
 
 ---
 

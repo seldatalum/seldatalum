@@ -23,15 +23,6 @@ I am a Third-Year Computer Engineering Student at Selçuk University Technology 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seldatalum&show_icons=true&theme=radial&hide_border=true" alt="Selda's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seldatalum&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seldatalum)
